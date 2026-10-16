@@ -21,8 +21,8 @@ Transformo requerimientos complejos en arquitecturas web escalables. Mi enfoque 
 ### 📊 Actividad en Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DannyCasis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannyCasis&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 🚀 Proyectos Relevantes
